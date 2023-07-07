@@ -29,6 +29,7 @@
 - 🌱 At the moment I am trying to improve my acquired knowledge with new projects.
 - 👀 My motto that I try to follow is "Writing simple, clear and fluent code".
 - 📫 How to reach me sebastianjurewicz.sj@gmail.com
+
 <br>
 
 ---
