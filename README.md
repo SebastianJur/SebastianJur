@@ -39,7 +39,7 @@
 
 ## 📂 My Projects:
 
-- 🌲 [Forest Forest](https://sebastianjur.github.io/Forest-website/) | [repository](https://github.com/SebastianJur/Forest-website)
+- 🌲 [Forest Group](https://sebastianjur.github.io/Forest-website/) | [repository](https://github.com/SebastianJur/Forest-website)
   - Html, SCSS, Javascript, Gulp, Responsive design.
 - 💎 [DGM Corporation](https://sebastianjur.github.io/DGM-Corporation/) | [repository](https://github.com/SebastianJur/DGM-Corporation)
   - Html, SCSS, Javascript, Grid Page, Responsive design.
