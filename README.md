@@ -1,21 +1,13 @@
 <div align="center">
-    <img src="img/programmer.gif"/>
-</div>
+  <img src="img/programmer.gif"/>
 
-<br>
-
-<div align="center">
-    <h1>
-     Hello
-     <img src="img/hello.webp" width="35px"/>  my name is Sebastian.
-    </h1>
-</div>
-
-<div align="center">
+  <br>
+  <h1>
+  Hello <img src="img/hello.webp" width="35px"/>  my name is Sebastian.
+  </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sebastian-jurewicz-855b42263/)
 [![Facebook](https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/sebastian.jurewicz.37/)
-
 </div>
 
 ---
@@ -53,6 +45,19 @@
 
 ### My Projects:
 
+- 🌲 [Forest Forest](sebastianjur.github.io/Forest-website/) | [repository](https://github.com/SebastianJur/Forest-website)
+  - Html, SCSS, Javascript, Gulp, Responsive design.
+- 💎 [DGM Corporation](sebastianjur.github.io/DGM-Corporation/) | [repository](https://github.com/SebastianJur/DGM-Corporation)
+  - Html, SCSS, Javascript, Grid Page, Responsive design.
+- 🌟 [Event Booster](ewelinamaniecka.github.io/event-booster-team-project/) | [repository](https://github.com/EwelinaManiecka/event-booster-team-project)
+  - **Group Project:**  HTML, SCSS, Javascript, Parcel, Axios, Discovery API, Responsive design.
+- 🍦 [Ice Cream Shop](https://jacekpietrzak.github.io/goit-icecream-group-5/) | [repository](https://github.com/jacekpietrzak/goit-icecream-group-5)
+  - **Group Project**: HTML, SCSS, Responsive design.
+- 🔍 [Image Fidner](https://sebastianjur.github.io/goit-react-hw-04-images/) | [repository](https://github.com/SebastianJur/goit-react-hw-04-images)
+  - React, Axios, Prop Types, Pixabay API, Responsive design.
+- 🎥 [Movie search](https://sebastianjur.github.io/goit-react-hw-05-movies/) | [repository](https://github.com/SebastianJur/goit-react-hw-05-movies)
+  - React, Notiflix, Axios, Prop Types.
+  
 <br>
 
 ---
