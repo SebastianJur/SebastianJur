@@ -1,15 +1,24 @@
 <div align="center">
-  <img src="img/programmer.gif"/>
+    <img src="img/programmer.gif"/>
 </div>
 
 <br>
 
 <div align="center">
-<h1>
-  Hello
-  <img src="img/hello.webp" width="35px"/>  my name is Sebastian.
-</h1>
+    <h1>
+     Hello
+     <img src="img/hello.webp" width="35px"/>  my name is Sebastian.
+    </h1>
 </div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sebastian-jurewicz-855b42263/)
+[![Facebook](https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/sebastian.jurewicz.37/)
+
+</div>
+
+---
 
 <br>
 
@@ -41,7 +50,8 @@
 
 <br>
 
-### My projects:
+### My Projects:
+
 <br>
 
 ---
