@@ -24,10 +24,6 @@
 
 <br>
 
----
-
-<br>
-
 ## 🛠️ Technologies & Tools: <!-- https://skillicons.dev/ -->
 
 <br>
@@ -37,13 +33,10 @@
     <img src="https://skillicons.dev/icons?i=materialui,bootstrap,nodejs,express,mongo,git,codepen,postman" />
   </a>
 </p>
-<br>
-
----
 
 <br>
 
-## My Projects:
+## 📂 My Projects:
 
 - 🌲 [Forest Forest](sebastianjur.github.io/Forest-website/) | [repository](https://github.com/SebastianJur/Forest-website)
   - Html, SCSS, Javascript, Gulp, Responsive design.
@@ -58,10 +51,6 @@
 - 🎥 [Movie search](https://sebastianjur.github.io/goit-react-hw-05-movies/) | [repository](https://github.com/SebastianJur/goit-react-hw-05-movies)
   - React, Notiflix, Axios, Prop Types, Themoviedb API.
   
-<br>
-
----
-
 <br>
 
 ## 🔥 My Stats: <!-- https://streak-stats.demolab.com/demo/ -->
