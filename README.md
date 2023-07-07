@@ -47,7 +47,7 @@
   - **Group Project:** HTML, SCSS, Javascript, Parcel, Axios, Discovery API, Responsive design.
 - 🍦 [Ice Cream Shop](https://jacekpietrzak.github.io/goit-icecream-group-5/) | [repository](https://github.com/jacekpietrzak/goit-icecream-group-5)
   - **Group Project**: HTML, SCSS, Responsive design.
-- 🔍 [Image Fidner](https://sebastianjur.github.io/goit-react-hw-04-images/) | [repository](https://github.com/SebastianJur/goit-react-hw-04-images)
+- 🔍 [Image Finder](https://sebastianjur.github.io/goit-react-hw-04-images/) | [repository](https://github.com/SebastianJur/goit-react-hw-04-images)
   - React, Axios, Prop Types, Pixabay API, Responsive design.
 - 🎥 [Movie search](https://sebastianjur.github.io/goit-react-hw-05-movies/) | [repository](https://github.com/SebastianJur/goit-react-hw-05-movies)
   - React, Notiflix, Axios, Prop Types, Themoviedb API.
