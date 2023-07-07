@@ -14,7 +14,7 @@
 
 <br>
 
-### 📑 About Me:
+## 📑 About Me:
 
 - 💻 I’m a beginner fullstack developer from Poland.
 - 😎 I’m interested in creating modern web sites and applications.
@@ -28,7 +28,7 @@
 
 <br>
 
-### 🛠️ Technologies & Tools: <!-- https://skillicons.dev/ -->
+## 🛠️ Technologies & Tools: <!-- https://skillicons.dev/ -->
 
 <br>
 <p align="center">
@@ -43,7 +43,7 @@
 
 <br>
 
-### My Projects:
+## My Projects:
 
 - 🌲 [Forest Forest](sebastianjur.github.io/Forest-website/) | [repository](https://github.com/SebastianJur/Forest-website)
   - Html, SCSS, Javascript, Gulp, Responsive design.
@@ -56,7 +56,7 @@
 - 🔍 [Image Fidner](https://sebastianjur.github.io/goit-react-hw-04-images/) | [repository](https://github.com/SebastianJur/goit-react-hw-04-images)
   - React, Axios, Prop Types, Pixabay API, Responsive design.
 - 🎥 [Movie search](https://sebastianjur.github.io/goit-react-hw-05-movies/) | [repository](https://github.com/SebastianJur/goit-react-hw-05-movies)
-  - React, Notiflix, Axios, Prop Types.
+  - React, Notiflix, Axios, Prop Types, Themoviedb API.
   
 <br>
 
@@ -64,7 +64,7 @@
 
 <br>
 
-### 🔥 My Stats: <!-- https://streak-stats.demolab.com/demo/ -->
+## 🔥 My Stats: <!-- https://streak-stats.demolab.com/demo/ -->
 
 <br>
 
