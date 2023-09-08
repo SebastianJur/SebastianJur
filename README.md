@@ -32,6 +32,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,sass,gulp,styledcomponents" />
     <img src="https://skillicons.dev/icons?i=materialui,bootstrap,nodejs,express,mongo,git,codepen,postman" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
 </p>
 
